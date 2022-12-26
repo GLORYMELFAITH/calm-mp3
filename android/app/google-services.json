@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1059842177946",
+    "project_id": "calm-mp3",
+    "storage_bucket": "calm-mp3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059842177946:android:1f29d41144472be24f1823",
+        "android_client_info": {
+          "package_name": "com.calmp3.calm_mp3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1059842177946-8a9umjpippe47nfs4n7hre6epfmmkk70.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvTTbn-yZxaXryb1XNutuvGkzB8kU2YA8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1059842177946-8a9umjpippe47nfs4n7hre6epfmmkk70.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
